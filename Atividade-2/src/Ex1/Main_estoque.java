@@ -15,7 +15,7 @@ public class Main_estoque {
         est.valor = sc.nextDouble();
 
         System.out.printf("Digite a quantidade do produto: ");
-        est.quantidade = sc.nextInt();
+        est.quant = sc.nextInt();
 
         Estoque estoque = new Estoque();
     }
